@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyB7pPZ9saiYFTSaewioqhfvhZ3Xmmt2yww",
+    apiKey: "....",
     authDomain: "alexis-dauli.firebaseapp.com",
     databaseURL: "https://alexis-dauli.firebaseio.com",
     projectId: "alexis-dauli",
     storageBucket: "alexis-dauli.appspot.com",
-    messagingSenderId: "267820436266",
-    appId: "1:267820436266:web:2f168f44fa9061b0bf6c53",
+    messagingSenderId: "...",
+    appId: "...",
     measurementId: "G-WN88VQE09X"
 };
 // Initialize Firebase
