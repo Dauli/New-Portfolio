@@ -79,7 +79,22 @@ input, select, textarea {
 .pic:hover {
 	transform: scale(1.1);
 }
-
+.alert {
+	text-align: center;
+	padding: 10px;
+	margin: 15px;
+	color: #fff;
+	background-color: #79c879;
+	display: none;
+}
+.danger {
+	text-align: center;
+	padding: 10px;
+	margin: 15px;
+	color: #fff;
+	background-color: #c8342e;
+	display: none;
+}
 
 /* Basic */
 
